@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction>
+	<CustTrans>
+		<CustomerNumber>12345</CustomerNumber>
+		<Name>Test</Test>
+		<Comment>test1â234</Comment>
+		<Plan>
+			<PlanName>Tes¬ÅtPlan</PlanName>
+		</Plan>
+	</CustTrans>
+</Transaction>
