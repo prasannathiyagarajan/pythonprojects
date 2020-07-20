@@ -83,7 +83,7 @@ def writefile(file):
         strText = input("Enter the text to append :- ")
         f.write("\n")
         f.write(strText)
-        print("File has been updated ", args.file)
+        print("File has been updated with the contents provided", args.file)
         
 #Write a function to read and print CSV file
 
