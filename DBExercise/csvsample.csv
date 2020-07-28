@@ -1,0 +1,14 @@
+name,title,group,value
+digital,flare,4,0
+business,flare/analytics,4,0
+change,flare/analytics/cluster,4,0
+transformation,flare/analytics/cluster/AgglomerativeCluster,4,3938
+organisation,flare/analytics/cluster/CommunityStructure,4,3812
+strategy,flare/analytics/cluster/HierarchicalCluster,4,6714
+technology,flare/analytics/cluster/MergeEdge,4,743
+leader,flare/analytics/graph,4,0
+plan,flare/analytics/graph/BetweennessCentrality,4,3534
+create,flare/analytics/graph/LinkDistance,4,5731
+innovation,flare
+prasanna python
+test, 123, 456, 789

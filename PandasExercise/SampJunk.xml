@@ -2,18 +2,18 @@
 <Transaction>
 	<CustTrans>
 		<Customer>
-		<CustomerNumber>12345</CustomerNumber>
-		<Name>Test</Test>
-		<Comment>test1â234</Comment>
-		<Address Form="CUSTOMER">
-			<Line1>1014 main st</Line1>
-			<City>Danbury</City>
-		</Address>
+			<CustomerNumber>12345</CustomerNumber>
+			<Name>Test</Name>
+			<Comment>test1â234</Comment>
+			<Address Form="CUSTOMER">
+				<Line1>1014 main st</Line1>
+				<City>Danbury</City>
+			</Address>
 		</Customer>
 		<Planstructure>
 			<ExperienceNumber>1234</ExperienceNumber>
 			<Plan Form="Dent">
-			<PlanName>Tes¬ÅtPlan</PlanName>
+				<PlanName>Tes¬ÅtPlan</PlanName>
 			</Plan>
 			<Rate>
 				<RateType>Tier</RateType>
