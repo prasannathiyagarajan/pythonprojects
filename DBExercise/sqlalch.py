@@ -12,9 +12,9 @@ students = Table(
    Column('name', String), 
    Column('lastname', String)
 )
-'''
-meta.create_all(engine)
 
+meta.create_all(engine)
+'''
 fnm = input("Enter user name - ")
 lnm = input("Enter Last name - ")
 
